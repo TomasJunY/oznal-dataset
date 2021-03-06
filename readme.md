@@ -1,0 +1,1 @@
+Dataset for school project. Source: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
